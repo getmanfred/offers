@@ -1,0 +1,24 @@
+Requisitos:
+Más de 8 años de experiencia como desarrollador backend o full- stack y liderazgo de equipos.
+Fuertes competencias en estructuras de bases de datos, algoritmos y diseño de software.
+Apasionado, de confianza, resolutivo, team-player, positivo, organizado, 100% enfocado en el éxito del negocio y listo para asumir responsabilidad.
+Capacidad para coordinar un equipo de desarrollo
+
+Tecnologías:
+PHP con uso de Symfony 4 o superior.
+React, Angular o Vue.
+Conocimiento de otros lenguajes como Go y Python.
+Conocimiento experto de MySQL y conocimientos de Elasticsearch/Kibana.
+Conocimiento de scraping de webs e integración de APIs de terceros (redes sociales, pasarelas de pago, servicios de email, etc…).
+Amplia experiencia construyendo APIs.
+Experiencia con procesos de background en PHP, Go o Python.
+Conocimiento de entornos Linux y skills de administración (shell scripting, networking, firewalls, monitoring, security).
+Experiencia con Docker y Kubernetes.
+Experiencia con Jenkins o algún otro entorno de integración y entrega continua.
+Experiencia en caché y optimización de performance.
+Administración de DigitalOcean u otros entornos Cloud.
+
+Deseables:
+Node.js / Typescript / React / Next.js
+Experiencia con bases de datos SQL y NoSQL con cientos/miles de millones de registros y habilidad para administración.
+Experiencia en mantenimiento de aplicaciones en versiones antiguas de Symfony (Symfony2/Twig/jQuery).
